@@ -1,0 +1,20 @@
+# 1. Ignorar a sua venv (A pasta pesada com as bibliotecas)
+pymupdf/
+venv/
+
+# 2. Ignorar o "lixo" que o Python cria sozinho ao rodar
+__pycache__/
+*.pyc
+
+# 3. Ignorar arquivos de configuração da sua IDE (VS Code ou PyCharm)
+.vscode/
+.idea/
+
+# 4. Ignorar arquivos de dados, PDFs e senhas
+*.pdf
+.env
+
+# 5. Ignorar caches pesados de IA (se estiverem na pasta do projeto)
+.cache/
+.huggingface/
+
