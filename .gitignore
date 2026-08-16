@@ -18,3 +18,5 @@ __pycache__/
 .cache/
 .huggingface/
 
+helsinki_pt_quantizado/
+helsinki_pt_quantizado/
